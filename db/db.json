@@ -1,9 +1,19 @@
 {
-    "notes": [
-        {
-            "title": "Sample Title",
-            "text": "Sample Text",
-            "id": 1
-        }
-    ]
+  "notes": [
+    {
+      "title": "New Title",
+      "text": "new text",
+      "id": "0"
+    },
+    {
+      "title": "Fake Title",
+      "text": "fake text",
+      "id": "1"
+    },
+    {
+      "title": "Spencer",
+      "text": "is so cool",
+      "id": "2"
+    }
+  ]
 }
