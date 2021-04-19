@@ -9,6 +9,7 @@ This application allows the user to write and save notes. By clicking the new no
 - Express.js
 
 ## Screenshot
+![Homepage](./public/assets/homepage.png)
 
 ## Website
 https://rocky-springs-14001.herokuapp.com/notes
